@@ -1,6 +1,6 @@
 ---
 title: Forestry CMS
-date: 2020-01-02
+date: 2019-12-31
 slug: forestry-cms
 
 ---
@@ -22,6 +22,8 @@ It will clone your site on Forestry preview environment, install the project dep
 ![](/forestry-instant-previews.png)
 
 Once the server is started, you will be able to **click on the preview icon** when you're editing a document (even without saving your changes).
+
+The editor doesn't seem too bad. Which is fine. 
 
 ## Adding pages
 
